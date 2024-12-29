@@ -1,0 +1,17 @@
+{"id":16,
+  "name":"Bowie",
+  "status":"always pooping",
+  "category":
+  {
+    "id":1200,
+    "name":"Lilia"
+  },
+  "photoUrls":[
+    "some dog images","another image","one images"
+  ],
+  "tags":[
+    {
+      "id":555,"name":"Roxy"
+    }
+  ]
+}

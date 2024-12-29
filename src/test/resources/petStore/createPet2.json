@@ -1,0 +1,20 @@
+{
+  "id": 160,
+  "name": "Kurt",
+  "status": "available",
+  "category": {
+    "id": 1200,
+    "name": "Lilia"
+  },
+  "photoUrls": [
+    "a dog image",
+    "another dog image",
+    "another dog image"
+  ],
+  "tags": [
+    {
+      "id": 555,
+      "name": "Roxy"
+    }
+  ]
+}

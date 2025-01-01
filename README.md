@@ -24,3 +24,6 @@ Automated API testing for the [PetStore API](https://petstore.swagger.io/) using
 - Delete pets using DELETE requests.
 - Validate responses using serialization and deserialization.
 
+## Test Results
+Screenshots of test results can be found in the [screenshots/](screenshots/) folder. 
+
